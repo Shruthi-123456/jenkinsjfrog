@@ -35,7 +35,7 @@
  <muleVersion>4.4.0</muleVersion>
  <username>enugushruthinewnew</username>
  <password>Enugushruthi@1289</password>
- <applicationName>usejenkinsjfrog1</applicationName>
+ <applicationName>usejenkinsjfrog</applicationName>
  <environment>Sandbox</environment>
  <workers>1</workers>
 <workerType>Micro</workerType>
